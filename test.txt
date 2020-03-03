@@ -1,8 +1,3 @@
 đây là file test
 
 chỉnh sửa theo nhánh feature-test
-
-edit by master
-
-edit by feature-test
-
